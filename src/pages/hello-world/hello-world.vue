@@ -1,8 +1,9 @@
 <style lang="scss" src="./hello-world.scss"></style>
+
 <script lang="ts" src="./hello-world.ts"></script>
 <template>
   <div class="[ hello-world ][ grid ]">
-    <h1 class="[ text-center ]">Vue Starter Project</h1>
+    <h1 class="[ text-center ] text-white">AW's VUE STARTER PROJECT</h1>
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png"
       class="[ logo ][ mx-auto ]"
@@ -18,8 +19,8 @@
     </div>
     <div class="[ grid ][ hello-world-content ]">
       <div class="description">
-        <h3>Summary</h3>
-        <span>
+        <h3 class="text-5xl text-bottlegreen">SUMMARY</h3>
+        <span class="text-white">
           The rdvue cli tool was created as a way to automate many of the
           processes that go into building SPAs (Single Page Applications) and
           setting consistencies between projects, shortenening the learning
@@ -29,8 +30,8 @@
           generation.
         </span>
       </div>
-      <div class="features">
-        <h3>Features Included</h3>
+      <div class="features text-white">
+        <h3 class="text-white">Features Included</h3>
         <ul class="[ ml-4 ]">
           <li>
             vue-router

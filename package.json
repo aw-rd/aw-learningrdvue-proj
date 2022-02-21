@@ -53,7 +53,7 @@
     "npm-run-all": "^4.1.5",
     "rimraf": "^3.0.2",
     "sass-loader": "^7.1.0",
-    "tailwindcss": "^1.4.1",
+    "tailwindcss": "^1.9.6",
     "tslint-config-prettier": "^1.18.0",
     "tslint-immutable": "^6.0.1",
     "typescript": "^3.0.0",

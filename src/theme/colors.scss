@@ -7,7 +7,7 @@
 	--typography-error: #ac3838;
 	--typography-success: #3fb984;
 	--typography-light: #718096;
-	--app-background: #CBD5E1;
+	--app-background: #18181a;
 	--app-footer: #b3becc;
 	--button-success: #74b871;
 	--button-warning: #d3782d;
@@ -21,6 +21,14 @@
    * Also, add theme specific element styling.
    */
 	&.dark {
-		// --typography-primary: #000;
+	 --typography-primary: #000;
 	}
+}
+
+
+
+.facebook-theme
+{
+	--landing-btn:--slategrey;
+
 }

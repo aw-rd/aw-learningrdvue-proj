@@ -17,6 +17,12 @@ module.exports = {
     colors: {
       inherit: 'inherit',
       transparent: 'transparent',
+      fbgrey: '#f1f2f6',
+      logoblue: '#1877f2',
+      bottlegreen: '#42b72a',
+      white: '#ffffff',
+      charcoal: '#1c1e21',
+
       app: {
         background: 'var(--app-background)',
         footer: 'var(--app-footer)',

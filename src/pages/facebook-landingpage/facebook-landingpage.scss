@@ -1,0 +1,199 @@
+body {
+    background-color: #f1f2f6;
+}
+.facebook-landingpage {
+   
+ 
+        background-color: #f1f2f6;
+ //padding-left:500px ;
+        
+    
+}
+/*.logo-pane
+{
+    padding-left:500px ;
+
+}*/
+.logo {
+    //width: 401px;
+    height: 106px;
+    margin-left:10rem;
+    margin-top: 10rem;
+}
+.call-to-action
+{
+    color: #1c1e21;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28px;
+    width: 500px;
+    margin-left:12rem;
+    margin-top:0;
+}
+
+.fb-txtbox
+{ 
+    display: inline-block;
+    font-size: 14px;
+    margin: auto;
+    padding: 6px 0;
+    width: 302px;
+}
+
+.inputtext
+{
+    
+    border: 1px solid #ccd0d5;
+    border-radius: 0;
+    margin: 0;
+    padding: 3px;
+}
+
+.fb-fancy-textbox
+{
+    background: #FFFFFF url(/rsrc.php/v3/yO/r/YQNfPR9MJfx.png) repeat-x;
+    border: 1px solid #dddfe2;
+    color: #1d2129;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+    height: 42px;
+   border-radius: 10px;
+    line-height: 26px;
+    padding: 30px 150px 35px 10px;
+    margin-top:10px;
+    //vertical-align: middle;
+}
+
+.login-panel
+{
+    align-items: center;
+    background-color: #fff;
+    border: none;
+    border-radius: 8px;
+   
+    box-sizing: border-box;
+  margin-top:20px;
+    padding: 5px 15px 15px 15px;
+    width: 380px;
+}
+.pos-left
+{
+    float:left;
+}
+
+.login-btn-blue
+{
+    //background-color:--logoblue;
+    background-color: #1877f2;
+    border: none;
+    border-radius: 6px;
+    font-size: 17px;
+    line-height: 48px;
+    padding: 0 10px;
+    margin-top:15px;
+    width: 350px;
+    color:#fff;
+    font-weight:700;
+}
+
+.btn-bottle-green
+{
+   background-color:#42b72a;
+    border: none;
+    border-radius: 6px;
+    font-size: 18px;
+    line-height: 25px;
+    padding: 10px 0px 10px 0px;
+    margin-top:5px;
+    margin-left:55px;
+    margin-bottom:20px;
+    width: 270px;
+    color:#fff;
+    font-weight:600;
+}
+
+.btn-bottle-green a
+{
+    text-decoration: none;
+}
+
+
+.forgot-btn
+{
+    margin-top:15px;
+}
+.forgot-btn a
+{
+    color: #1877f2;
+    font-size: 17px;
+    font-weight: 400;
+    text-decoration:none;
+    cursor:pointer;
+    margin-left:100px;
+
+}
+
+.main-pane
+{
+    margin-bottom:70px;
+}
+
+.main-footer
+{
+    background-color:#ffffff;
+    width:100%;
+}
+
+.footer-main{
+   // width:100%;
+background-color: #FFFFFF;
+float:left;
+//margin-top: 273px;
+padding:10px 10px 20px 30px;
+color:#737373;
+font-size:12px;
+}
+
+.localeSelectorList {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    padding-left:10px;
+    
+}
+.footer-main li
+{
+    margin-left:15px;
+}
+
+    
+
+
+.separator
+{
+    align-items: center;
+    border-bottom: 1px solid #dadde1;
+    display: flex;
+    margin: 20px 16px;
+    margin-bottom:30px;
+    text-align: center;
+}
+
+.create-page
+{
+    border-top: none;
+    color: #1c1e21;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+    padding-top: 0; 
+  //  margin-left:11em;
+    margin-top:2em;
+}
+
+.create-page a
+{
+    text-decoration:none;
+}

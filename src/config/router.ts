@@ -38,5 +38,13 @@ export default new Router({
           /* webpackChunkName: "not-found" */
           '@/pages/not-found'),
     },
+
+    /*New page added via router.ts*/
+    {
+      path: '/facebook-landingpage',
+      name: 'facebook-landingpage',
+      meta: { layout: 'default' },
+      component: () => import(/* webpackChunkName: "facebook-landingpage" */ '@/pages/facebook-landingpage'),
+    }
   ],
 });
